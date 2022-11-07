@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "5614571115:AAHlE7ZqP49lJMT5OLfff0AHgehxE85dNXw"
+TOKEN = "TOKEN"
 MESSAGE = "Have you programmed today {}?"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
