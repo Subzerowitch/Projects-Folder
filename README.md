@@ -1,1 +1,3 @@
-
+- simple Telegram reminder bot.
+- shooting game.
+- insurance cost study with Data visualization using received results.
